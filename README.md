@@ -32,4 +32,7 @@ git clone https://github.com/hiba2007-code/authentification-system-php.git
 http://localhost/authentification-system-php
 
 ## Database
-Make sure to create a database and import the SQL file included in the project.
+
+1. Create a new database in phpMyAdmin.
+2. Import the `database.sql` file included in the project.
+3. Make sure the database name matches the one used in the configuration file.
